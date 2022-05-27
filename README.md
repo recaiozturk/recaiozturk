@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recai</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">web developer by day, game developer by night</h3>
 
 - 🔭 I’m currently working on **Top Down Shooter Game with C#-Unity**
 
