@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Top Down Shooter Game with C#-Unity**
 
-- 🌱 I’m currently learning **Xamarin,.Net Core,JavaScript**
+- 🌱 I’m currently learning **Xamarin,.Net Core,Angular**
 
 - 📫 How to reach me **recaiozturk54@gmail.com**
 
