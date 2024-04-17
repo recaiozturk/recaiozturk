@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Recai</h1>
 <h3 align="center">web developer by day, game developer by night</h3>
 
-- 🌱 I’m currently learning ** Microservice Architecture,Blazor**
+- 🌱 I’m currently learning **Microservice Architecture,Blazor**
 
 - 📫 How to reach me **recaiozturk54@gmail.com**
 
