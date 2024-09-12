@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recai</h1>
-<h3 align="center">web developer by day, game developer by night</h3>
+<h4 align="center">I'm a passionate .NET Developer with a focus on building scalable and efficient web applications. I enjoy working with technologies like ASP.NET Core, C#, and SQL Server to create robust solutions that make an impact</h4>
 
 - 🌱 I’m currently learning **Microservice Architecture,Vue.js**
 
