@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Recai</h1>
 <h4 align="center">I'm a passionate .NET Developer with a focus on building scalable and efficient web applications. I enjoy working with technologies like ASP.NET Core and C# to create robust solutions that make an impact</h4>
 
-- 🌱 I’m currently learning **Microservice Architecture,Vue.js**
+- 🌱 I’m currently learning **Microservice Architecture,Angular**
 
 - 📫 How to reach me **recaiozturk54@gmail.com**
 
